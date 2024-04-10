@@ -1,9 +1,9 @@
-.. Testing documentation master file, created by
+.. Insurance Analysis documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Testing documentation!
+Insurance Analysis documentation!
 ==============================================
 
 Contents:
